@@ -1,0 +1,10 @@
+* cl-inix
+
+A flexible library for .INI/.conf file parsing.
+
+|---------+-------------------------------------------|
+| source  | git:https://codeberg.org/aartaka/cl-inix |
+| commit  | 4c95dd5                                   |
+| systems | cl-inix                                   |
+|---------+-------------------------------------------|
+
